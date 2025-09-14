@@ -12,7 +12,7 @@ Pyro, a male charizard who is fierce and loyal. His deep devotion to his trainer
    ```bash
    python ai_bot.py
    ```
-
+3. Make it an App I can talk to
 ## Personality
 
 Pyro is fierce, loyal, cocky, jolly, a little quick temper 
